@@ -1,4 +1,4 @@
-# Intro to Artificial Intelligence (CS440) Projects
+Artificial Intelligence Projects
 
 ## Project Description
 This repository contains projects completed as part of the course "Intro to Artificial Intelligence (CS440)". The main project involves the implementation of the A* algorithm and its various versions (forward, backward, etc.). The goal of the project is to enable an agent to solve a generated maze as efficiently as possible and record the key differences and findings.
